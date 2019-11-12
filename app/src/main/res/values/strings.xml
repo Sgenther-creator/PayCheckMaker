@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PayCheck Maker</string>
+    <string name="text">No Tag Found</string>
+    <string name="balance">Balance :</string>
+    <string name="text_warning_nfc_is_off">NFC deactivated</string>
+    <string name="text_turn_on_nfc">NFC is off, please turn it on to use the application</string>
+    <string name="text_update_settings">Activate NFC</string>
+    <string name="text_warning_nfc_not_present">Device not compatible</string>
+    <string name="text_device_not_compatible">It seems that your device is not compatible for NFC support, therefore this app is useless</string>
+    <string name="text_close_app">Close App</string>
+</resources>
